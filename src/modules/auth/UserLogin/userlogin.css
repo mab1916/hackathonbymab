@@ -1,0 +1,17 @@
+.loginstyle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.signupstyle {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.signbutton {
+    margin-left: 80px;
+    margin-top: 50px;
+}

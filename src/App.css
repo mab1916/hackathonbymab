@@ -1,0 +1,8 @@
+.links {
+  text-decoration: none;
+  color: red;
+}
+.linkText {
+  float: right;
+  padding-left: 35px;
+}
